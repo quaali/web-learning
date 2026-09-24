@@ -1,0 +1,38 @@
+html {
+    background-color: lavender;
+}
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px gray;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: blue;
+}
+a {
+    display: block;
+    margin-bottom: 20px;
+}
+.intro {
+    font-size: 18px;
+    font-weight: bold;
+}
+.success {
+    background-color: green;
+}
